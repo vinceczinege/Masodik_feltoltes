@@ -1,7 +1,6 @@
 *.pyc
 *~
 __pycache__
-uj_myvenv
 enkornyezetem/
 db.sqlite3
 /static
